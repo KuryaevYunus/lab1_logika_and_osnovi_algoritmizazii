@@ -1,0 +1,1 @@
+# lab1_logika_and_osnovi_algoritmizazii
